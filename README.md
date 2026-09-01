@@ -1,8 +1,8 @@
 # Hi, I'm Rohid Aji Sunan 👋
 
-**Data Analyst · Data Scientist · Data Engineer** — building end-to-end data projects, from raw data to deployed models to reproducible pipelines. Currently expanding my portfolio across all three tracks after completing a Data Science Trainee program with Pusdatin, Ministry of Primary and Secondary Education (Kemendikdasmen) Indonesia.
+**Data Analyst · Data Scientist · Data Engineer**, building end-to-end data projects, from raw data to deployed models to reproducible pipelines. Currently expanding my portfolio across all three tracks after completing a Data Science Trainee program with Pusdatin, Ministry of Primary and Secondary Education (Kemendikdasmen) Indonesia.
 
-I care about building things that hold up under scrutiny — a lot of my recent work has been about auditing my own past results and fixing subtle issues (data leakage, embedding mismatches, evaluation shortcuts) that inflate reported numbers without anyone noticing.
+I care about building things that hold up under scrutiny, a lot of my recent work has been about auditing my own past results and fixing subtle issues (data leakage, embedding mismatches, evaluation shortcuts) that inflate reported numbers without anyone noticing.
 
 ---
 
@@ -31,7 +31,7 @@ Sunan, R.A., Erliawan K., H.F., & Aditya, C.S.K. (2024) — *JEPIN (Jurnal Eduka
 | Data Science / NLP | 🛠️ [**klasifikasi-hoax-lstm-revisited**](https://github.com/rohid001/klasifikasi-hoax-lstm-revisited) | Independent revision of the project above: rebuilt in **PyTorch** with **FastText Indonesia** (subword-aware embeddings), fixed a data-leakage bug in the original imbalance-handling step, with a full before/after results comparison. |
 | Data Analysis | ⚖️ [**Dataset_Narkotika**](https://github.com/rohid001/Dataset-Narkotika_092_074.git) | Curated dataset of narcotics/psychotropics court decisions from Pengadilan Negeri Rantau Prapat, sourced from Indonesia's Supreme Court decision directory — for legal research and search-engine development. |
 | Data Analysis / Data Science | 📊 **ULT Complaints Analytics** *(private — pending data-use authorization)* | Topic modeling (LDA) + sentiment analysis (IndoBERT) on a government complaints platform, built during my Data Science Trainee program. Presented internally; not yet public pending institutional approval. |
-| Data Engineer | 🚧 *In progress* | A data pipeline / engineering project is next on my roadmap — check back soon. |
+| Data Engineer | 🚧 *In progress* | A data pipeline/engineering project is next on my roadmap, check back soon. |
 
 *(This table grows as each project ships — see the roadmap note above.)*
 
