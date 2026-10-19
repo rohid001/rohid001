@@ -48,7 +48,7 @@ Sunan, R.A., Erliawan K., H.F., & Aditya, C.S.K. (2024) — *JEPIN (Jurnal Eduka
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://shields.io/badge/Docker-2496ED?style=flat&logo=docker&Color=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&Color=white)
 
 
 <!--
